@@ -2,7 +2,7 @@
 The script cleans the huge extra space occupied by XCode's cache, simulator devices and archives. 
 Please note that after this next time when you try to build via xcode, you should login again. 
 
-_**Using this script I was able to reclaim around 60GB of space. **_
+**_Using this script I was able to reclaim around 60GB of space._**
 
 ## Important Note
 Please also note that after running this, all of your simulators, archives and caches would be deleted. 
